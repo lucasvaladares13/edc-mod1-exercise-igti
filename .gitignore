@@ -1,3 +1,5 @@
+.vscode
 *.csv
 *.txt
 *DS_Store
+/IAC/main.tf
