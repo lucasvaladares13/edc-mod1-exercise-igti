@@ -15,3 +15,10 @@ variable "numero_conta" {
   default = "516190547158"
   #description = "description"
 }
+
+variable "aws_region" {
+  #type        = string
+  default = "us-east-2"
+  #description = "description"
+}
+
